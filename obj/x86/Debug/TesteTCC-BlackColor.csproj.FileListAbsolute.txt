@@ -1,0 +1,49 @@
+C:\Documents and Settings\FDG\Desktop\TesteTCC-BlackColor\TesteTCC-BlackColor\bin\Debug\TesteTCC-BlackColor.exe
+C:\Documents and Settings\FDG\Desktop\TesteTCC-BlackColor\TesteTCC-BlackColor\bin\Debug\TesteTCC-BlackColor.pdb
+C:\Documents and Settings\FDG\Desktop\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\FDG\Desktop\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela1.resources
+C:\Documents and Settings\FDG\Desktop\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\FDG\Desktop\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela2.resources
+C:\Documents and Settings\FDG\Desktop\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela3.resources
+C:\Documents and Settings\FDG\Desktop\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela4.resources
+C:\Documents and Settings\FDG\Desktop\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela5.resources
+C:\Documents and Settings\FDG\Desktop\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\FDG\Desktop\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\FDG\Desktop\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\TesteTCC-BlackColor.exe
+C:\Documents and Settings\FDG\Desktop\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\TesteTCC-BlackColor.pdb
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\TesteTCC-BlackColor.exe
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\TesteTCC-BlackColor.pdb
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Help1.resources
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela2.resources
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela3.resources
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela4.resources
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela5.resources
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\bin\Debug\TesteTCC-BlackColor.exe
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\bin\Debug\TesteTCC-BlackColor.pdb
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela1.resources
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Help2.resources
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Help3.resources
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela6.resources
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\bin\Debug\TesteTCC-BlackColor.exe.config
+C:\Documents and Settings\FDG\Desktop\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Help4.resources
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\bin\Debug\TesteTCC-BlackColor.exe.config
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\TesteTCC-BlackColor.exe
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\TesteTCC-BlackColor.pdb
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Help1.resources
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Help2.resources
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Help3.resources
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Help4.resources
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela1.resources
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela2.resources
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela3.resources
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela4.resources
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\WindowsFormsApplication1.Tela5.resources
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\TesteTCC-BlackColor.csproj.GenerateResource.Cache
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\obj\x86\Debug\TesteTCC-BlackColor.csprojResolveAssemblyReference.cache
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\bin\Debug\TesteTCC-BlackColor.exe
+B:\TCC NOVO\TCC\TesteTCC-BlackColor\TesteTCC-BlackColor\bin\Debug\TesteTCC-BlackColor.pdb

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{59EF9F1E-E140-4B18-83AE-B3A6BF4EF13C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>TesteTCC-BlackColor</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bd_jogo1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bd_jogo1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bd_jogo1DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bd_jogo1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Help1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help1.Designer.cs">
+      <DependentUpon>Help1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help2.Designer.cs">
+      <DependentUpon>Help2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help3.Designer.cs">
+      <DependentUpon>Help3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help4.Designer.cs">
+      <DependentUpon>Help4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tela1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela1.Designer.cs">
+      <DependentUpon>Tela1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela2.Designer.cs">
+      <DependentUpon>Tela2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela3.Designer.cs">
+      <DependentUpon>Tela3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela4.Designer.cs">
+      <DependentUpon>Tela4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela5.Designer.cs">
+      <DependentUpon>Tela5.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Help1.resx">
+      <DependentUpon>Help1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help2.resx">
+      <DependentUpon>Help2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help3.resx">
+      <DependentUpon>Help3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help4.resx">
+      <DependentUpon>Help4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Tela1.resx">
+      <DependentUpon>Tela1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela2.resx">
+      <DependentUpon>Tela2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela3.resx">
+      <DependentUpon>Tela3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela4.resx">
+      <DependentUpon>Tela4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela5.resx">
+      <DependentUpon>Tela5.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="bd_jogo1DataSet.xsc">
+      <DependentUpon>bd_jogo1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bd_jogo1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bd_jogo1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bd_jogo1DataSet.xss">
+      <DependentUpon>bd_jogo1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bd_jogo1DataSet1.xsc">
+      <DependentUpon>bd_jogo1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bd_jogo1DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bd_jogo1DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bd_jogo1DataSet1.xss">
+      <DependentUpon>bd_jogo1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\military_camouflage_patterns-t2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\military_camouflage_patterns-t21.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
